@@ -1,0 +1,21 @@
+{
+  "name": "socket.io-nats",
+  "version": "0.1.0",
+  "description": "Adapter to enable broadcasting of events to multiple separate socket.io server nodes through NATS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efmr/socket.io-nats.git"
+  },
+  "keywords": [
+    "socket.io",
+    "NATS",
+    "real-time-communication"
+  ],
+  "author": "Edgar Ribeiro",
+  "email": "edgar.marques.ribeiro@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/efmr/socket.io-nats/issues"
+  },
+  "homepage": "https://github.com/efmr/socket.io-nats#readme"
+}
