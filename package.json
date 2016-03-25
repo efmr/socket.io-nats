@@ -1,6 +1,6 @@
 {
   "name": "socket.io-nats",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adapter to enable broadcasting of events to multiple separate socket.io server nodes through NATS",
   "engines": {
     "node": ">=0.12",

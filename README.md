@@ -90,7 +90,7 @@ prefix + '.' + namespace + '.' + room
 - `prefix`: The base channel name. Default value is `socket.io`. Changed by setting `opts.key` in `adapter(opts)` constructor
 - `delimiter`: The delimiter of channel name. Default value is `.`. Changed by setting `opts.delimiter` in `adapter(opts)` constructor
 - `namespace`: See https://github.com/socketio/socket.io#namespace.
-- `room` : Used if targeting a specific room.
+- `room` : Used if targeting a specific room, the room is URL encoded.
 
 
 ## License
