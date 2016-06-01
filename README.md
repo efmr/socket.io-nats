@@ -2,6 +2,12 @@
 
 This adapter enables multiple socket.io instances to broadcast and emit events to and from each other through [NATS](http://nats.io/), based on the [socket.io-redis](https://github.com/socketio/socket.io-redis).
 
+## Install
+
+```
+npm install socket.io-nats
+```
+
 ## How to use
 
 ```js
