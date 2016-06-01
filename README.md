@@ -1,6 +1,6 @@
 # socket.io-nats
 
-Adapter to enable broadcasting of events to multiple separate socket.io server nodes through [NATS](http://nats.io/), based on the [socket.io-redis](https://github.com/socketio/socket.io-redis)
+This adapter enables multiple socket.io instances to broadcast and emit events to and from each other through [NATS](http://nats.io/), based on the [socket.io-redis](https://github.com/socketio/socket.io-redis).
 
 ## How to use
 
